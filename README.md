@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=secsilm&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=secsilm&theme=radical&count_private=true&show_icons=true">
 
 I'm Alan Lee (李亚军, secsilm) from China.
 
